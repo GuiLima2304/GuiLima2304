@@ -1,6 +1,6 @@
 ### Hi there, I'm Guilherme 👋
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything
 - ⚡ Fun fact: I like news challenges
