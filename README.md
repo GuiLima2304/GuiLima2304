@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying to improve my skills in React 
 - 👯 I’m front-end developer
 - 💬 Ask me about anything
-- ⚡ Fun fact: I like news challenges
+- ⚡ Fun fact: I really like keyboards
 
 <div href="https://beacons.ai/GuiLima2304">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilima2304&show_icons=true&theme=blue-green"/>
