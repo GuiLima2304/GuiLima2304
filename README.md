@@ -1,7 +1,7 @@
 ### Hi there, I'm Guilherme 👋
 
-- 🌱 I’m currently learning Java 
-- 👯 I’m looking to collaborate on open source projects
+- 🌱 I’m currently studying to improve my skills in React 
+- 👯 I’m front-end developer
 - 💬 Ask me about anything
 - ⚡ Fun fact: I like news challenges
 
