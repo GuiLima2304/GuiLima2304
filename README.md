@@ -1,7 +1,7 @@
 ### Hi there, I'm Guilherme 👋
 
-- 🌱 I’m currently studying to improve my skills in React 
-- 👯 I’m front-end developer
+- 🌱 I’m currently studying to improve my skills in Java 
+- 👯 I’m front-end developer, studying to be full-stack
 - 💬 Ask me about anything
 - ⚡ Fun fact: I really like keyboards
 
